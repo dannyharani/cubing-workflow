@@ -2,7 +2,7 @@
 ## How I continue to learn: demonstrated through validated solves of different rubic's type puzzles.
 
 ### My first validated solve!
-
+December 8th 2020  
 My times:
 1. 35.24s
 2. 37.78s
