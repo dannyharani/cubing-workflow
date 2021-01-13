@@ -20,3 +20,6 @@ _This solve was of the pyraminx puzzle; Personal best in bold_
 [mininglifeonline.net](https://mininglifeonline.net/company-news/how-to-solve-a-pyraminx-/11682)  
 [Youtube - Noah Richardson](https://mininglifeonline.net/company-news/how-to-solve-a-pyraminx-/11682)  
 [Youtube - ParadoxCubing](https://www.youtube.com/watch?v=bP8uNejf3y8)
+[Youtube - Z3Cubing](https://www.youtube.com/watch?v=xIQtn2qazvg)
+[Youtube - Cube Solve Hero](https://www.youtube.com/watch?v=60P0fOMG_6Y)
+[Inceneration - Pro](https://www.youtube.com/watch?v=YSvbXmU4aHM)
